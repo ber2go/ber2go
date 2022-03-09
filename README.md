@@ -1,7 +1,7 @@
 ### Hi there, I'm Eubert 👋
 
 ### Connect with me:
-[<img align="left" alt="ber2go" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="ber2go" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />][linkedin]
 
 <br />
 
