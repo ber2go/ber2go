@@ -22,6 +22,10 @@
 <img align="left" alt="git" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:5px;" />
 <img align="left" alt="github" height="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:5px;" />
 
+<br/>
+
+![Eubert Go's GitHub stats](https://github-readme-stats.vercel.app/api?username=ber2go&count_private=true&theme=github_dark&show_icons=true)
+
 
 [linkedin]: https://www.linkedin.com/in/eubertgo
 <!--
